@@ -20,6 +20,8 @@ In order to check the multisig wallet corresponding to a NOS address, simply run
 
     The corresponding multisig address: bc1qjpn4qvqhxuh3hj0sndxqylzpc3wnqu84zwew29hm7zyjnqw9j5sqnmygf0
 
+    ============================================================================
+
 ```
 
 
