@@ -11,7 +11,7 @@ Signer 6: 021bf77c146362f5a99f208b3512b52de22b0c5ba5e1eb4d5b7eeb610c013d032e
 Signer 7: 03479cd4022fa8c4ebc16c7cd4fc9396c4cf6ebc37daed1ac09803390026785e1a
 ```
 
-To verify that the deposit addresses belong to our Bitcoin Multisig wallet, you can verify that each of these wallet addresses is generated from a combination of the 7 following signers’ public keys and the user’s NBC address as follows:
+To verify that the deposit addresses belong to our Bitcoin Multisig wallet, you can verify that each of these wallet addresses is generated from a combination of the 7 signers’ public keys and the user’s NBC address as follows:
 
 - Pull code from the repository: https://github.com/TrustlessComputer/proof-of-reserve
 
